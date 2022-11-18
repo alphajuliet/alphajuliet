@@ -1,4 +1,4 @@
-I’m @alphajuliet. I've programmed in over 30 languages over the years, from Z80 assembler to PureScript. 
+I've programmed in over 30 languages over the years, from Z80 assembler to PureScript.
 I code mostly in Clojure and Racket these days for fun, and I’m currently playing with the array language BQN.
 I’m not looking to collaborate but you can reach me at andrew@alphajuliet.com.
 
