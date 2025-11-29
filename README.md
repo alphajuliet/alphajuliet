@@ -1,6 +1,6 @@
-I've programmed in over 30 languages over the years, from Z80 assembler to PureScript.
-I code mostly in Clojure and Julia these days for fun, and also play with array languages like Uiua.
-I’m not looking to collaborate but you can reach me at andrew (at) alphajuliet (point) com.
+I've programmed or tinkered in over 30 languages, from Z80 assembler to Perl to PureScript.
+These days I mainly code in Clojure, and also play with Julia, TypeScript, WolframScript, and Uiua.
+I’m not a developer or looking to collaborate but you can reach me at andrew (at) alphajuliet (point) com.
 
 <!---
 alphajuliet/alphajuliet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
