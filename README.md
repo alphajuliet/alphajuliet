@@ -1,5 +1,5 @@
-I've programmed or tinkered in over 30 languages, from Z80 assembler to Perl to PureScript.
-These days I mainly code in Clojure, and also play with Julia, TypeScript, WolframScript, and Uiua.
+I've programmed or tinkered in over 30 languages, from Basic to Z80 assembler to Perl to PureScript.
+These days Claude and I mainly code in Clojure, and also play with Julia, TypeScript, and Uiua.
 I’m not a developer or looking to collaborate but you can reach me at andrew (at) alphajuliet (point) com.
 
 <!---
